@@ -13,10 +13,10 @@
 ---
 
 ## 🚀 Selected Projects
-- **VectorShift** — Demo-ready web app for [brief one-liner]. (Repo: `https://github.com/sankha1545/VectorShift.git`)  
+- **VectorShift** — Demo-ready web app for [brief one-liner]. (Repo: `https://github.com/sankha1545/VectorShift`)  
   *Implemented front-end UI, integrated backend APIs, containerized with Docker.*
-- **MedicoX** — a full stack tele-medical web appliocation. (Repo: `https://github.com/sankha1545/MEDICO.git`)
-- **PLANO** — a to-do list web application. (Repo: `https://github.com/sankha1545/Todolist-alienBrains-.git`)
+- **MedicoX** — a full stack tele-medical web appliocation. (Repo: `https://github.com/sankha1545/MEDICO`)
+- **PLANO** — a to-do list web application. (Repo: `https://github.com/sankha1545/Todolist-alienBrains-`)
 
 ### My Top Project
 ![My Top Project](assets/MedicoX.png)
@@ -24,7 +24,7 @@
 ---
 
 ## 💼 Experience
-**Front-end Intern** — (via college placement)  
+**Front-end Intern at ALienBrains** — (via college placement)  
 - Built responsive UI components, worked with REST APIs, improved performance and accessibility.  
 - Gained hands-on experience deploying apps and working with backend services.
 
@@ -37,10 +37,9 @@
 ---
 
 ## 📫 Contact
-- 📄 Resume: *(add link to your resume PDF / Google Drive / portfolio)*
-- ✉️ Email: `your.email@example.com`
-- 🔗 LinkedIn: *(your LinkedIn URL)*
-- 🧾 Portfolio: *(if you have one)*
+- ✉️ Email: `sankhasubhradas1@gmail.com`
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/sankha-subhra-das-625ab6201/)*
+- 🧾 Portfolio: *myportfolioxyx.netlify.app*
 
 ---
 
@@ -50,15 +49,13 @@
 
 ---
 
-> **If you're a recruiter:** I'm open to full-time/junior roles or internships — feel free to check my resume and reach out!
+> **If you're a recruiter:** I'm open to full-time/junior roles or internships — feel free to check my portfolio and reach out!
 
 ---
 
-### Optional: small Markdown skills table (if you want a compact view)
-
 | Area | Tools |
 |---|---|
-| Frontend | React, Next.js, Tailwind |
-| Backend | Node.js, FastAPI, Express |
-| Cloud / DevOps | Docker, GitHub Actions, Heroku/AWS |
+| Frontend | React, Next.js, Tailwind , Typescript , Javascript, React-native|
+| Backend | Node.js, RestAPI, Express , MySQL , Mongodb  |
+| Cloud / DevOps | Docker, GitHub Actions, CI/CD , Containerisation |
 
