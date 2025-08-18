@@ -4,21 +4,22 @@
 ---
 
 ## 🔧 Tech & Tools
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express, FastAPI, Python
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps / Cloud:** Docker, GitHub Actions, Heroku / (or) AWS / GCP
-- **Other:** REST, GraphQL, TypeScript, Git
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind 
+- **Backend:** Node.js, Express
+- **Databases:** My SQL, MongoDB
+- **DevOps / Cloud:** Docker, GitHub Actions,AWS ,CICD
+- **Other:** REST, TypeScript, Git , JavaScript
 
 ---
 
 ## 🚀 Selected Projects
-- **VectorShift** — Demo-ready web app for [brief one-liner]. (Repo: `vectorshift`)  
+- **VectorShift** — Demo-ready web app for [brief one-liner]. (Repo: `https://github.com/sankha1545/VectorShift.git`)  
   *Implemented front-end UI, integrated backend APIs, containerized with Docker.*
-- **Project Two** — One-sentence description and stack. (Link to repo)
-- **Project Three** — One-sentence description and why it’s notable.
+- **MedicoX** — a full stack tele-medical web appliocation. (Repo: `https://github.com/sankha1545/MEDICO.git`)
+- **PLANO** — a to-do list web application. (Repo: `https://github.com/sankha1545/Todolist-alienBrains-.git`)
 
-> Add one screenshot or a short demo GIF for your top project to make this section pop.
+### My Top Project
+![My Top Project](assets/MedicoX.png)
 
 ---
 
