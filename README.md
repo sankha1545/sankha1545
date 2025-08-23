@@ -13,7 +13,7 @@
 <img src="https://avatars.githubusercontent.com/sankha1545?s=260" alt="avatar" width="160" style="border-radius:50%; margin-top:10px;"/>
 
 **Sankha Subhra Das**  
-`@sankha1545` • Full-stack web developer • Recent B.Tech (CSE) graduate
+`@sankha1545` • Full-stack web developer • Recent B.Tech (CST) graduate
 
 *Recent B.Tech (CSE) graduate from UEM, Kolkata — full-stack web developer building clean, scalable web apps. Currently exploring cloud-native deployment and developer tooling. Open to internships and early-career roles.*
 
