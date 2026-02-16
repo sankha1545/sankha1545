@@ -288,21 +288,28 @@ developer.sayHi();
 
 ### 📈 GitHub Statistics
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api?username=sankha1545&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api?username=sankha1545&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 </a>
 
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=sankha1545&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=sankha1545&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api/top-langs/?username=sankha1545&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api/top-langs/?username=sankha1545&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sankha1545&custom_title=Sankha's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sankha1545&theme=tokyo-night&hide_border=true"/>
 </a>
+
+</div>
+
 
 
 <br/>
