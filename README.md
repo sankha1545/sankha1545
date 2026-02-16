@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](https://www.sankhasubhradasportfolio.in/)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](https://myportfolioxyx.netlify.app)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/sankha-subhra-das-625ab6201/)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankha1545)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:sankhasubhradas1@gmail.com)
@@ -17,7 +17,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
 class SankhaSubhraDas {
@@ -72,7 +72,7 @@ developer.sayHi();
 ### 🏢 Front-End Developer Intern
 **Alien Brains** | *Mar 2025 - May 2025*
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100">
 
 ✨ **Key Achievements:**
 - 🎨 Built modular React components with route-based code splitting
@@ -87,7 +87,7 @@ developer.sayHi();
 **B.Tech Computer Science**  
 *UEM Kolkata* | *2021 - 2025*
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 🏆 **Highlights:**
 - 📚 Specialized in Full-Stack Development
@@ -166,10 +166,10 @@ developer.sayHi();
 <tr>
 <td width="50%" valign="top">
 
-### 🔖 [Smart Bookmark](https://github.com/sankha1545/Bookmark-fullstack-app)
+### 🔖 [Smart Bookmark](https://github.com/sankha1545/smart-bookmark)
 *Full-Stack SaaS Platform*
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhqZWNkYmRjNzg4YTRkOTBjMGJhNjU0YjQ4ZTJlYWNiMDQxN2RmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
 
 **Tech Stack:**  
 `Next.js` `TypeScript` `Supabase` `Tailwind` `ShadCN UI`
@@ -187,7 +187,7 @@ developer.sayHi();
 ### 🏥 [MedicoX](https://github.com/sankha1545/MEDICO)
 *Healthcare Platform*
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
 
 **Tech Stack:**  
 `React` `Node.js` `Socket.IO` `Docker` `AWS`
@@ -205,10 +205,10 @@ developer.sayHi();
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [LogScope](https://github.com/sankha1545/Log_ingestion)
+### 📊 [LogScope](https://github.com/sankha1545/logscope)
 *Distributed Log Ingestion System*
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
 
 **Tech Stack:**  
 `Node.js` `Docker` `Nginx` `Jest` `REST API`
@@ -226,7 +226,7 @@ developer.sayHi();
 ### 💬 [SignalHub](https://github.com/sankha1545/signalhub)
 *Unified Customer Outreach* 🚧
 
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
 
 **Tech Stack:**  
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Twilio`
@@ -244,10 +244,10 @@ developer.sayHi();
 <tr>
 <td width="50%" valign="top">
 
-### 🙏 [BhaktaSanmilani](https://github.com/bardhamanbhaktasanmilani/Bhaktasanmilani)
+### 🙏 [BhaktaSanmilani](https://bhaktasanmilani.com)
 *Secure Donation Platform* ✅ **LIVE**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100">
 
 **Tech Stack:**  
 `React` `Node.js` `Razorpay` `JWT` `Express`
@@ -264,7 +264,7 @@ developer.sayHi();
 
 ### 🎨 More Projects Coming Soon...
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
 
 **Currently Working On:**
 - 🔄 VectorShift Pipeline Builder
@@ -308,7 +308,7 @@ developer.sayHi();
 
 ### 🏗️ Architecture & Design
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80">
 
 - 🎨 Mono-repo architectures
 - 🔄 Microservices design
@@ -321,7 +321,7 @@ developer.sayHi();
 
 ### ⚙️ DevOps & Infrastructure
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80">
 
 - 🐳 Docker containerization
 - 🔄 CI/CD pipelines
@@ -334,7 +334,7 @@ developer.sayHi();
 
 ### 🔒 Security & Monitoring
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80">
 
 - 🔑 JWT/OAuth flows
 - 🔐 HTTPS/TLS implementation
@@ -359,22 +359,22 @@ developer.sayHi();
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"><br>
 <b>1.5+ Years</b><br>
 Production Experience
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"><br>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60"><br>
 <b>5+ Projects</b><br>
 Production Ready
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"><br>
 <b>CI/CD Expert</b><br>
 Pipeline Automation
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60"><br>
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="60"><br>
 <b>Security First</b><br>
 Best Practices
 </td>
@@ -433,7 +433,7 @@ current_focus:
 
 ### 🎯 Core Principles
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 ```python
 philosophy = {
@@ -451,7 +451,7 @@ philosophy = {
 
 ### ⚡ Fun Facts About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
 
 - 🎥 **Video Creator** - I make concise demo videos
 - 📦 **Atomic Commits** - Small, testable changes FTW
@@ -474,7 +474,7 @@ philosophy = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="500">
 
 ### 🚀 Open to Opportunities
 
@@ -490,25 +490,25 @@ I'm actively seeking **full-time positions** and **internship opportunities** wh
 <tr>
 <td align="center">
 <a href="mailto:sankhasubhradas1@gmail.com">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+<img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="100" />
 <br><b>Email Me</b>
 </a>
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/sankha-subhra-das-625ab6201/">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="100" />
 <br><b>LinkedIn</b>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/sankha1545">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" />
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="100" />
 <br><b>GitHub</b>
 </a>
 </td>
 <td align="center">
 <a href="https://myportfolioxyx.netlify.app">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100" />
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="100" />
 <br><b>Portfolio</b>
 </a>
 </td>
@@ -519,7 +519,7 @@ I'm actively seeking **full-time positions** and **internship opportunities** wh
 
 [![Email](https://img.shields.io/badge/sankhasubhradas1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankhasubhradas1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Sankha_Subhra_Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankha-subhra-das-625ab6201/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankhasubhradasportfolio.in/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolioxyx.netlify.app)
 [![GitHub](https://img.shields.io/badge/@sankha1545-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankha1545)
 
 <br>
@@ -548,7 +548,7 @@ I'm actively seeking **full-time positions** and **internship opportunities** wh
 <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
 </td>
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=sankha1545&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </td>
