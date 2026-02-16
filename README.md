@@ -290,25 +290,31 @@ developer.sayHi();
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
+<!-- GitHub Stats -->
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api?username=sankha1545&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api?username=sankha1545&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
 
+<!-- Streak -->
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://streak-stats.demolab.com?user=sankha1545&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=sankha1545&theme=tokyonight&hide_border=true" />
 </a>
 
+<!-- Top Languages — FIXED -->
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api/top-langs/?username=sankha1545&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api/top-langs/?username=sankha1545&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
+<!-- Contribution Graph -->
 <a href="https://github.com/sankha1545">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sankha1545&theme=tokyo-night&hide_border=true"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sankha1545&theme=tokyo-night&hide_border=true" />
 </a>
 
-</div>
+<!-- Trophies — FIXED -->
+<a href="https://github.com/sankha1545">
+  <img src="https://github-profile-trophy.vercel.app/?username=sankha1545&theme=tokyonight&no-frame=true&no-bg=true" />
+</a>
+
 
 
 
