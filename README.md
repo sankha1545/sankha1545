@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](https://myportfolioxyx.netlify.app)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](https://www.sankhasubhradasportfolio.in/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/sankha-subhra-das-625ab6201/)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankha1545)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:sankhasubhradas1@gmail.com)
@@ -166,7 +166,7 @@ developer.sayHi();
 <tr>
 <td width="50%" valign="top">
 
-### 🔖 [Smart Bookmark](https://github.com/sankha1545/smart-bookmark)
+### 🔖 [Smart Bookmark](https://github.com/sankha1545/Bookmark-fullstack-app)
 *Full-Stack SaaS Platform*
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhqZWNkYmRjNzg4YTRkOTBjMGJhNjU0YjQ4ZTJlYWNiMDQxN2RmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
@@ -205,7 +205,7 @@ developer.sayHi();
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [LogScope](https://github.com/sankha1545/logscope)
+### 📊 [LogScope](https://github.com/sankha1545/Full-Stack-LogIngestion)
 *Distributed Log Ingestion System*
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
@@ -223,7 +223,7 @@ developer.sayHi();
 </td>
 <td width="50%" valign="top">
 
-### 💬 [SignalHub](https://github.com/sankha1545/signalhub)
+### 💬 [SignalHub](https://github.com/sankha1545/SignalHub1)
 *Unified Customer Outreach* 🚧
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
@@ -244,7 +244,7 @@ developer.sayHi();
 <tr>
 <td width="50%" valign="top">
 
-### 🙏 [BhaktaSanmilani](https://bhaktasanmilani.com)
+### 🙏 [BhaktaSanmilani](https://github.com/bardhamanbhaktasanmilani/Bhaktasanmilani)
 *Secure Donation Platform* ✅ **LIVE**
 
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100">
@@ -286,13 +286,32 @@ developer.sayHi();
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sankha1545&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sankha1545&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+### 📈 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankha1545&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sankha1545&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+<a href="https://github.com/sankha1545">
+  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api?username=sankha1545&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sankha1545&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<a href="https://github.com/sankha1545">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sankha1545&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+</a>
+
+<a href="https://github.com/sankha1545">
+  <img width="49%" src="https://githubstats-elufu6uc8-akashs-projects-e192d9c6.vercel.app/api/top-langs/?username=sankha1545&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages"/>
+</a>
+
+<a href="https://github.com/sankha1545">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sankha1545&custom_title=Sankha's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true" alt="Contribution Graph"/>
+</a>
+
+
+<br/>
+
+### 🏆 GitHub Profile Trophies
+
+<a href="https://github.com/sankha1545">
+  <img src="https://github-profile-trophy.vercel.app/?username=sankha1545&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -519,7 +538,7 @@ I'm actively seeking **full-time positions** and **internship opportunities** wh
 
 [![Email](https://img.shields.io/badge/sankhasubhradas1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankhasubhradas1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Sankha_Subhra_Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankha-subhra-das-625ab6201/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolioxyx.netlify.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankhasubhradasportfolio.in/)
 [![GitHub](https://img.shields.io/badge/@sankha1545-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankha1545)
 
 <br>
